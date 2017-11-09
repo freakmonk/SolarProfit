@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Solar Profit Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="Electricy_tariff_forkW">Electricy tariff  for kW </string>
+    <string name="Feed_in_tariff_for_kW">Feed-in tariff for kW </string>
+    <string name="Youre_country_tax">Youre country tax</string>
+    <string name="Save">Save</string>
+    <string name="Calculate">Calculate</string>
+    <string name="MPPT_solar_controller">MPPT solar controller</string>
+    <string name="Home_self_usage_kW">Home self usage kW</string>
+    <string name="Solar_Panels_power_W">Solar Panels power W</string>
+    <string name="Total_year_produse">Total year produce</string>
+    <string name="Home_year_usage">Home year usage</string>
+    <string name="Year_summury">Year summury</string>
+    <string name="Solar_Station_cost">Solar Station cost</string>
+    <string name="Home_year_bill">Home year bill</string>
+    <string name="Year_solar_profit">Year solar profit</string>
+    <string name="Profit_before_degradation">Profit before degradation</string>
+    <string name="Payback_time">Payback time in year\'s</string>
+    <string name="System_technical_recomendations">System technical recomendations for autonomous system</string>
+    <string name="System_voltage">System voltage</string>
+    <string name="System_current">System current</string>
+    <string name="Battery_capacity">Battery capacity</string>
+    <string name="Battery_type">Battery type</string>
+    <string name="Production_of_energy_by_one_month_in_kW">Production of energy by one month in kW</string>
+    <string name="Production_of_energy_by_one_day_in_kW">Production of energy by one day in kW</string>
+    <string name="Station_Rating">Station Rating</string>
+    <string name="battery_price">Battery price</string>
+    <string name="invertor_price">Inverter and other</string>
+    <string name="Solar_station_total">Total price</string>
+    <string name="Feed_in_calculations">Feed in calculations</string>
+    <string name="country_prompt">Country profiles</string>
+    <string-array name="country_arrays">
+        <item>Profile</item>
+        <item>Ukraine</item>
+        <item>United States</item>
+        <item>Russia</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Poland</item>
+    </string-array>
+</resources>

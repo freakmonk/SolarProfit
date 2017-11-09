@@ -1,0 +1,130 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:layout_marginLeft="10dp">
+
+    <TextView
+        android:padding="3dip"
+        android:text="@string/System_technical_recomendations"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold" />
+<TableRow>
+
+    <TextView
+        android:padding="3dip"
+        android:text="@string/System_voltage"
+        android:textSize="18sp" />
+
+    <TextView
+        android:gravity="left"
+        android:padding="3dip"
+        android:id="@+id/table_system_voltage"
+        android:text="24V"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</TableRow>
+
+<TableRow>
+<TextView
+    android:text="@string/System_current"
+    android:padding="3dip"
+    android:textSize="18sp"/>
+
+<TextView
+    android:gravity="left"
+    android:id="@+id/table_max_corrent"
+    android:padding="3dip"
+    android:text="15A"
+    android:textSize="18sp"
+    android:textStyle="bold" />
+</TableRow>
+
+<TableRow>
+<TextView
+    android:text="@string/Battery_capacity"
+
+    android:padding="3dip"
+    android:textSize="18sp"/>
+
+<TextView
+    android:gravity="left"
+    android:padding="3dip"
+    android:id="@+id/table_battery_cap"
+    android:text="150Ah"
+    android:textSize="18sp"
+    android:textStyle="bold" />
+</TableRow>
+<TableRow>
+<TextView
+    android:text="@string/Battery_type"
+    android:padding="3dip"
+    android:textSize="18sp"/>
+
+<TextView
+    android:gravity="left"
+    android:padding="3dip"
+    android:id="@+id/table_battery_type"
+    android:text="12V 200Ah"
+    android:textSize="18sp"
+    android:textStyle="bold" />
+</TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/battery_price"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_battery_price"
+            android:text="500 $"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/invertor_price"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_additional_price"
+            android:text="500 $"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:text="@string/Solar_Station_cost"
+        android:padding="3dip"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:gravity="left"
+        android:padding="3dip"
+        android:id="@+id/table_station_cost2"
+        android:text="000$"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</TableRow>
+    <TableRow>
+    <TextView
+        android:text="@string/Solar_station_total"
+        android:padding="3dip"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:gravity="left"
+        android:padding="3dip"
+        android:id="@+id/table_station_total"
+        android:text="000$"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</TableRow>
+</TableLayout>

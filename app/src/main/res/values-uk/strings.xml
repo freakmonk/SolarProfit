@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solar Profit</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="about">Про додаток</string>
+    <string name="Electricy_tariff_forkW">Ваш тариф за кВт</string>
+    <string name="Feed_in_tariff_for_kW">Зелений тариф за кВт</string>
+    <string name="Youre_country_tax">Податок на прибуток</string>
+    <string name="Save">Зберегти</string>
+    <string name="Calculate">Порахувати</string>
+    <string name="MPPT_solar_controller">MPPT контроллер</string>
+    <string name="Home_self_usage_kW">Споживання будинку кВт</string>
+    <string name="Solar_Panels_power_W">Потужність станції Вт</string>
+    <string name="Total_year_produse">Річне вироблення енергії</string>
+    <string name="Home_year_usage">Спожито будинком</string>
+    <string name="Year_summury">Річна сума</string>
+    <string name="Solar_Station_cost">Ціна станції</string>
+    <string name="Home_year_bill">Річний домашній чек</string>
+    <string name="Battery_type">Тип батарей</string>
+    <string name="Battery_capacity">Ємність батарей</string>
+    <string name="System_current">Максимальний струм</string>
+    <string name="System_voltage">Системна напруга</string>
+    <string name="System_technical_recomendations">Технічні рекомендації для автономної системи</string>
+    <string name="Payback_time">Час окупності в роках</string>
+    <string name="Profit_before_degradation">Окупність до деградації</string>
+    <string name="Year_solar_profit">Річний прибуток</string>
+    <string name="Production_of_energy_by_one_month_in_kW">Вироблення енергії за місяць в кВт</string>
+    <string name="Production_of_energy_by_one_day_in_kW">Вироблення енергії за день в кВт</string>
+    <string name="Station_Rating">Рейтинг станції</string>
+    <string name="battery_price">Ціна акумуляторів</string>
+    <string name="invertor_price">Інвертер та інше</string>
+    <string name="Solar_station_total">Повна ціна</string>
+    <string name="Feed_in_calculations">Розрахунок під зелений тариф</string>
+    <string name="country_prompt">Профайл країни</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solar Profit</string>
+    <string name="action_settings">Настройки</string>
+    <string name="about">О программе</string>
+    <string name="Electricy_tariff_forkW">Ваш тариф за кВт</string>
+    <string name="Feed_in_tariff_for_kW">Зеленый тариф за кВт</string>
+    <string name="Youre_country_tax">Подоходный налог</string>
+    <string name="Save">Сохранить</string>
+    <string name="Calculate">Посчитать</string>
+    <string name="MPPT_solar_controller">MPPT контроллер</string>
+    <string name="Home_self_usage_kW">Потребление дома кВт</string>
+    <string name="Solar_Panels_power_W">Мощность станции Вт</string>
+    <string name="Total_year_produse">Годовая выработка</string>
+    <string name="Home_year_usage">Использование домом</string>
+    <string name="Year_summury">Годовая сумма</string>
+    <string name="Solar_Station_cost">Стоимость станции</string>
+    <string name="Home_year_bill">Годовой домашний чек</string>
+    <string name="Battery_type">Тип батарей</string>
+    <string name="Battery_capacity">Емкость батарей</string>
+    <string name="System_current">Максимальный ток</string>
+    <string name="System_voltage">Системное напряжение</string>
+    <string name="System_technical_recomendations">Технические рекомендации для автономной системы</string>
+    <string name="Payback_time">Время окупаемости в годах</string>
+    <string name="Profit_before_degradation">Окупаемость до деградации</string>
+    <string name="Year_solar_profit">Годовая прибыль</string>
+    <string name="Production_of_energy_by_one_month_in_kW">Выработка енергии за месяц в кВт</string>
+    <string name="Production_of_energy_by_one_day_in_kW">Выработка енергии за день в кВт</string>
+    <string name="Station_Rating">Рейтинг станции</string>
+    <string name="battery_price">Цена аккамуляторов</string>
+    <string name="invertor_price">Инвертер и прочее</string>
+    <string name="Solar_station_total">Итоговая стоимость</string>
+    <string name="Feed_in_calculations">Расчет под зеленый тариф</string>
+    <string name="country_prompt">Профайл стран</string>
+</resources>

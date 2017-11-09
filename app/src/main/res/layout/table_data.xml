@@ -1,0 +1,130 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:layout_marginLeft="10dp">
+    <TextView
+        android:padding="3dip"
+        android:text="@string/Feed_in_calculations"
+        android:textSize="20sp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold" />
+
+    <TableRow>
+       <TextView
+            android:text="@string/Total_year_produse"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_total_y_produce"
+            android:text="15000kw"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/Home_year_usage"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_home_y_use"
+            android:text="15000kw"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/Year_summury"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_y_eco"
+            android:text="15000kw"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/Solar_Station_cost"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_station_cost"
+            android:text="15000$"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/Home_year_bill"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_year_electr"
+            android:text="15000$"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/Year_solar_profit"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_year_profit"
+            android:text="15000$"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/Profit_before_degradation"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_profit_40"
+            android:text="150$"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+
+
+
+    <TableRow>
+        <TextView
+            android:text="@string/Payback_time"
+            android:padding="3dip"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/table_ocupaemost"
+            android:text="11y"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </TableRow>
+</TableLayout>
