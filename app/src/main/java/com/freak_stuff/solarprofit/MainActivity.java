@@ -187,6 +187,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //Сохранение настроек
     public void onButtonSavePressed(View view) {
         //close keyboard
         View view2 = this.getCurrentFocus();

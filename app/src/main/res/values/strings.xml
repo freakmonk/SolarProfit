@@ -32,6 +32,7 @@
     <string name="Solar_station_total">Total price</string>
     <string name="Feed_in_calculations">Feed in calculations</string>
     <string name="country_prompt">Country profiles</string>
+
     <string-array name="country_arrays">
         <item>Profile</item>
         <item>Ukraine</item>
@@ -42,4 +43,5 @@
         <item>Italy</item>
         <item>Poland</item>
     </string-array>
+
 </resources>
