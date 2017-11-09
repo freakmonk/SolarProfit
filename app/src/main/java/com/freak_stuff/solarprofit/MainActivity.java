@@ -154,6 +154,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                findViewById(R.id.sett).setVisibility(View.INVISIBLE);
                 findViewById(R.id.mainp).setVisibility(View.VISIBLE);
                 findViewById(R.id.resp).setVisibility(View.INVISIBLE);
             }
@@ -255,6 +256,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onKeyDown(int keyCode, KeyEvent event)  {
         if (keyCode == KeyEvent.KEYCODE_BACK && event.getRepeatCount() == 0) {
             findViewById(R.id.mainp).setVisibility(View.VISIBLE);
+            findViewById(R.id.sett).setVisibility(View.INVISIBLE);
             findViewById(R.id.resp).setVisibility(View.INVISIBLE);
             return true;
         }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Solar Profit</string>
+    <string name="app_name">Solar Profit Calculator</string>
     <string name="action_settings">Настройки</string>
     <string name="about">О программе</string>
     <string name="Electricy_tariff_forkW">Ваш тариф за кВт</string>
