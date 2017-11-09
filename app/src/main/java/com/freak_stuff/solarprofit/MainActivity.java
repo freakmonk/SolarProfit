@@ -203,6 +203,7 @@ public class MainActivity extends AppCompatActivity {
         editor.putString("LocalTaxes",((EditText) findViewById(R.id.local_taxes)).getText().toString());
         editor.apply();
 
+        //push value to variable
         Elect_kW = Double.parseDouble(((EditText) findViewById(R.id.local_electric_tarif)).getText().toString());
         GreenTar = Double.parseDouble(((EditText) findViewById(R.id.local_green_tarif)).getText().toString());
         Nalog = Double.parseDouble(((EditText) findViewById(R.id.local_taxes)).getText().toString());
