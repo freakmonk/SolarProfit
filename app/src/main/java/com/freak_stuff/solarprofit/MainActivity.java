@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
             }
-
+            //если ничего не выбрано
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
 
