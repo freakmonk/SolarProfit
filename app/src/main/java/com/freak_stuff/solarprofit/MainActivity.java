@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Вытягивание настроем из сохрана
+        //Вытягивание настроек из сохрана
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
         SharedPreferences.Editor editor = preferences.edit();
         String ElectroTar = preferences.getString("ElectroTarif", "");
